@@ -1,4 +1,5 @@
-module.exports = {
-    MONGODB_URL: "mongodb://127.0.0.1:27017/reactogram",
+module.exports={
+    MONGODB_URL: "mongodb+srv://cluster0.megph38.mongodb.net/",
     JWT_SECRET: "hafsfffgg72846285jjjkh54646467hh"
+
 }
